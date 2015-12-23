@@ -645,3 +645,25 @@
   width:66px;
   white-space:nowrap;
 }
+#u54 {
+  position:absolute;
+  left:871px;
+  top:113px;
+  width:131px;
+  height:43px;
+}
+#u54_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:131px;
+  height:43px;
+}
+#u55 {
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:127px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
