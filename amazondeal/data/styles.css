@@ -21,6 +21,9 @@
 }
 .button {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -65,6 +68,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -78,6 +83,9 @@
 }
 .radio_button {
   text-align:left;
+}
+.html_button {
+  text-align:center;
 }
 .tree_node {
   text-align:left;
